@@ -1,3 +1,5 @@
+# a new update by hussin        
+# new line has been added
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

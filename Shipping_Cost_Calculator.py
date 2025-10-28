@@ -1,4 +1,4 @@
- # هنا تحديث جديد بواسطة Hussinalifawaz
+# a new update by hussin
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
